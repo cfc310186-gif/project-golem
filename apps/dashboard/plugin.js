@@ -1,6 +1,6 @@
 /**
  * 檔案名稱: dashboard.js
- * 版本: v9.1 (MultiAgent Monitor)
+ * 版本: v9.5 (MultiAgent Monitor)
  * ---------------------------------------
  * 更新重點：
  * 1. 🟢 適配 v9.1 核心架構。
@@ -29,7 +29,7 @@ class DashboardPlugin {
 
         if (this.useTUI) {
             this.view = new TerminalView({
-                title: '🦞 Golem v9.1 戰術控制台 (MultiAgent Edition)',
+                title: '🦞 Golem v9.5 戰術控制台 (MultiAgent Edition)',
                 onExit: () => this.detach()
             });
         } else {
@@ -174,7 +174,7 @@ class DashboardPlugin {
 
         process.stdout.write("\n============================================\n");
         process.stdout.write("📺 Dashboard 已關閉 (Visual Interface Detached)\n");
-        process.stdout.write("🤖 Golem v9.1 仍在背景執行中...\n");
+        process.stdout.write("🤖 Golem v9.5 仍在背景執行中...\n");
         process.stdout.write("============================================\n\n");
     }
 

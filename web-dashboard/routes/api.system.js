@@ -137,7 +137,7 @@ module.exports = function registerSystemRoutes(server) {
             const envVars = EnvManager.readEnv();
             const rawMemoryMode = String(envVars.GOLEM_MEMORY_MODE || '').trim();
 
-            let version = 'v9.1';
+            let version = 'v9.5';
             try {
                 const pkg = JSON.parse(fs.readFileSync(path.resolve(process.cwd(), 'package.json'), 'utf8'));
                 version = pkg.version;

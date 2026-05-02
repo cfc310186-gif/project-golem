@@ -62,7 +62,7 @@ export default function MemoryPage() {
                         <div className="text-sm text-muted-foreground mt-1 flex items-center flex-wrap">
                             {t("memory.subtitle")}
                             <span className="ml-3 px-2 py-0.5 rounded-full bg-secondary border border-border text-xs font-mono text-muted-foreground">
-                                v9.1.5
+                                v9.5
                             </span>
                         </div>
                     </div>

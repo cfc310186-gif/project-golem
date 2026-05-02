@@ -1,5 +1,5 @@
 /**
- * 🦞 Project Golem v9.1.5 (Single-Golem Edition)
+ * 🦞 Project Golem v9.5 (Single-Golem Edition)
  * -------------------------------------------------------------------------
  * 架構：[Universal Context] -> [Conversation Queue] -> [NeuroShunter] <==> [Web Gemini]
  */

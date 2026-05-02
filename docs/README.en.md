@@ -1,10 +1,10 @@
 <div align="center">
   <img src="../assets/logo.png" width="400" alt="Project Golem Logo" />
-  <h1>🤖 Project Golem v9.1</h1>
+  <h1>🤖 Project Golem v9.5</h1>
   <p><b>Ultimate Chronos + MultiAgent + Social Node Edition</b></p>
 
   <p>
-    <img src="https://img.shields.io/badge/Version-9.1.6-blue?style=for-the-badge" alt="Version">
+    <img src="https://img.shields.io/badge/Version-9.5.0-blue?style=for-the-badge" alt="Version">
     <img src="https://img.shields.io/badge/Engine-Node.js%2020-green?style=for-the-badge&logo=nodedotjs" alt="Engine">
     <img src="https://img.shields.io/badge/Brain-Gemini%20Web%20%7C%20Ollama-orange?style=for-the-badge&logo=google" alt="Brain">
     <img src="https://img.shields.io/badge/Platform-Telegram%20%7C%20Discord-blue?style=for-the-badge" alt="Platform">

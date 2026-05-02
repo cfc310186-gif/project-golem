@@ -25,7 +25,7 @@ class HelpManager {
         } catch (e) { }
 
         return `
-🤖 **Golem v9.1 (Ultimate Chronos + MultiAgent + WebSkillEngine)**
+🤖 **Golem v9.5 (Ultimate Chronos + MultiAgent + WebSkillEngine)**
 ---------------------------
 ⚡ **Node.js**: Reflex Layer + Action Executor
 🧠 **Web Gemini**: Infinite Context Brain
